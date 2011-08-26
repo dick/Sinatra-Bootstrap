@@ -1,4 +1,6 @@
 Sinatra + Bootstrap
 ===================
 
-This is a barebones Sinatra project that includes less.js to roll your own Bootstrap styling.  
+This is a barebones Sinatra project with pre-compiled Bootstrap styling.  
+
+The .less files are included to tinker with.  
