@@ -1,5 +1,5 @@
 require 'rubygems'
-require './app'
+require './app.rb'
 
 set :environment, :production
 set :run, false
